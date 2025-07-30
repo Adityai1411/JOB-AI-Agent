@@ -15,7 +15,7 @@ An intelligent AI agent built with LLMs to analyze and interact with job descrip
 - 🔐 **Secure Config** – Uses `.streamlit/secrets.toml` to store API keys securely (not pushed to GitHub)  
 
 ---
-
+````
 ## 📁 Project Structure
 
 
